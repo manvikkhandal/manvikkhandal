@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some exciting projects related to **Data Science and Machine Learning.**
 - 🌱 I'm currently learning **Advanced Machine Learning techniques** and improving my **Python** skills.
 - ⚡ When I’m not coding, I enjoy reading **tech blogs** and exploring **new technologies**.
-- 👨‍💻 You can check out my projects [here](https://github.com/manvikkhandal?tab=repositories).
+- 👨‍💻 You can check out my projects [Here](https://github.com/manvikkhandal/project).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
