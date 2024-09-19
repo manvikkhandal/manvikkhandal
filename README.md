@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Keshav Maheshwari</h1>
+<h1 align="center">Hi 👋, I'm Manvik Khandal</h1>
 
 - 🔭 I’m currently doing my degree in **Computer Science.**
 - 🌱 I'm currently learning **Data Science.**
 - ⚡ In my free time, when I’m not coding, I enjoy reading **tech blogs and exploring new libraries.**
-- 👨‍💻 All of my Data Science [Projects](https://github.com/KeshavMaheshwari21/Python-DS/tree/main/Projects)
+- 👨‍💻 All of my Data Science [Projects](https://github.com/manvikkhandal/project)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/keshav-maheshwari-a34933278" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav maheshwari" height="30" width="40" /></a>
-<a href="https://instagram.com/_keshav_maheshwari_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_keshav_maheshwari_26" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_krishna.16__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_keshav_maheshwari_26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
