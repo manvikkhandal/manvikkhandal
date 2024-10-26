@@ -23,15 +23,15 @@
 - 🔭 I’m currently pursuing my degree in **Computer Science.**
 - 🌱 I’m learning **Data Science** to enhance my skills.
 - ⚡ In my free time, I enjoy reading **tech blogs** and exploring **new libraries**.
-- 👨‍💻 Check out my Data Science [Projects](https://github.com/KeshavMaheshwari21/Python-DS/tree/main/Projects).
+- 👨‍💻 Check out my Data Science [Projects](https://github.com/manvikkhandal/project).
 
 <h3 align="left" style="color: #f1f1f1;">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/keshav-maheshwari-a34933278" target="blank">
+    <a href="https://www.linkedin.com/in/manvik-khandal-951704254/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav maheshwari" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/_keshav_maheshwari_26" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_keshav_maheshwari_26" height="30" width="40" />
+    <a href="https://www.instagram.com/_krishna.16__/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Manvik khandal" height="30" width="40" />
     </a>
 </p>
 
@@ -90,8 +90,8 @@
 
 <h3 align="left" style="color: #f1f1f1;">GitHub Stats:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavmaheshwari21&show_icons=true&locale=en&layout=compact&theme=dark" alt="keshavmaheshwari21" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavmaheshwari21&show_icons=true&locale=en&layout=compact&theme=dark" alt="manvikkhandal" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshavmaheshwari21&theme=dark" alt="keshavmaheshwari21" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvikkhandal&theme=dark" alt="keshavmaheshwari21" />
 </p>
