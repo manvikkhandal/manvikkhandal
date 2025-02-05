@@ -90,8 +90,8 @@
 
 <h3 align="left" style="color: #f1f1f1;">GitHub Stats:</h3>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavmaheshwari21&show_icons=true&locale=en&layout=compact&theme=dark" alt="manvikkhandal" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manvikkhandal&show_icons=true&locale=en&layout=compact&theme=dark" alt="manvikkhandal" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvikkhandal&theme=dark" alt="keshavmaheshwari21" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvikkhandal&theme=dark" alt="manvikkhandal" />
 </p>
